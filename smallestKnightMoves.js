@@ -29,6 +29,8 @@ export default function smallestKnightMoves(currentPosition, requiredPosition) {
             path[move] = position.toString();
         }
     }
+
+    console.log("Path not found: Wrong Input");
 }
 
 function logPath(position, path) {

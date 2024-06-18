@@ -1,0 +1,13 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "A chess algorithm to find the smallest number of moves it takes to move a knight anywhere on the board. I wrote it as one of my TOP assignment.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

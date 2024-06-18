@@ -1,3 +1,3 @@
-import possibleKnightMoves from "./possibleKnightMoves.js";
+import smallestKnightMoves from "./smallestKnightMoves.js";
 
-console.log(possibleKnightMoves([3, 3]));
+smallestKnightMoves([3, 3], [4, 4]);
